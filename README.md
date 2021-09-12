@@ -1,5 +1,5 @@
 # Survey Repository
-In this repository, you can find the Creation Tool .exe and the MR Card Game .apk, as well as example 3D models.
+In this repository, you can find the Creation Tool and the MR Card Game, as well as example 3D models.
 To complete the surveys necessary for the evaluation of this project, you need to do the following:
 
 1. Download the zip found [here](https://github.com/AnPerret/ExampleModelObjects/tree/main/Question%20Creator). Unzip it and start the .exe of the creation tool. In the creation tool, please create at least two questions, one multiple choice and one input question. Link at least one 3D model to one of the questions. To link a 3D model to a question, you need an Uri that ends on a .obj object. For this, you can use a 3D model stored in a folder in this git project ([here](https://github.com/AnPerret/ExampleModelObjects/tree/main/Example%20Models)). Please make sure that you clicked on the "Raw" button to get the Uri of the .obj object that you choose, and not only the page with the .obj preview ([how it looks](https://raw.githubusercontent.com/AnPerret/ExampleModelObjects/main/Example%20Models/Cube.obj)). Then upload the level by selecting it in the browse level menu and giving it a code. This code will be necessary to download your level in the game application, so please note it down somewhere.
